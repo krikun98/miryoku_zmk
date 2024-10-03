@@ -98,7 +98,7 @@ See [[#supported-keyboards][Supported Keyboards]] for details of supported keybo
 
 Specifies the ZMK board.
 
-For onboard controller keyboards (keyboards with an integrated controller), enter the keyboard name, e.g. ~ahokore~, ~ble_chiffre~, ~technikable~, ~zaphod~.
+For onboard controller keyboards (keyboards with an integrated controller), enter the keyboard name, e.g. ~ahokore~, ~ble_chiffre~, ~technikable~, ~zaphod~, ~willis~.
 
 For split onboard controller keyboards (keyboards with an integrated controller on each side), enter the keyboard side name, e.g. ~corneish_zen_v1_left~, ~corneish_zen_v1_right~.  To build both sides in the same run, enter both keyboard side names separated by a comma, e.g. ~corneish_zen_v1_left,corneish_zen_v1_right~.
 
@@ -363,6 +363,21 @@ Notes or diagrams are provided below where the selection of keys is not obvious 
 **** 34/ferris
 
 [[#thumb-combos][Thumb combos]] are enabled.
+
+
+**** 36/willis
+
+***** Bruce
+
+~MIRYOKU_MAPPING=2X2U~
+
+Supports Bruce/Le Chiffre 2x2u configuration.
+[[#thumb-combos][Thumb combos]] are enabled.
+
+***** Minidox
+
+Default.
+3x1U thumb keys.
 
 
 **** 38/draculad
